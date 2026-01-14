@@ -1,0 +1,77 @@
+{
+    "updated": true,
+    "version": 1,
+    "lastUpdated": "2026-01-14",
+    "lessons": {
+        "1_1": {
+            "preLesson": "",
+            "mainLesson": "https://youtu.be/YbuxDniYWrg",
+            "wordPractice": ""
+        },
+        "1_2": {
+            "preLesson": "https://youtu.be/vT3LgOY1zjY",
+            "mainLesson": "https://www.youtube.com/watch?v=rs5Y19QGVas",
+            "wordPractice": "https://www.youtube.com/watch?v=Arjc7-S0sJw"
+        },
+        "1_3": {
+            "preLesson": "https://youtu.be/RFv_CJAOBZQ",
+            "mainLesson": "https://youtu.be/tiwuGvkTps0",
+            "wordPractice": "https://youtu.be/8WLF9y6Va2I"
+        },
+        "1_4": {
+            "preLesson": "https://youtu.be/njCxzKITgXg",
+            "mainLesson": "https://youtu.be/usAppwQlKL8",
+            "wordPractice": "https://youtu.be/WJYDqTOiNzA"
+        },
+        "1_5": {
+            "preLesson": "https://youtu.be/h9XGpRTFr7c",
+            "mainLesson": "https://youtu.be/IOLJBYfZwzY",
+            "wordPractice": ""
+        },
+        "1_6": {
+            "preLesson": "https://youtu.be/BJ-LIzLxFWc",
+            "mainLesson": "https://youtu.be/LzLctKmyPaY",
+            "wordPractice": ""
+        },
+        "1_7": {
+            "preLesson": "https://youtu.be/viqTrAqji-8",
+            "mainLesson": "https://youtu.be/ir98Y2XeuaM",
+            "wordPractice": ""
+        },
+        "1_8": {
+            "preLesson": "",
+            "mainLesson": "https://youtu.be/IqNghSvNce0",
+            "wordPractice": ""
+        },
+        "1_9": {
+            "preLesson": "https://youtu.be/97Ipu-1K_vg",
+            "mainLesson": "https://youtu.be/JL4DZEPCs6k",
+            "wordPractice": ""
+        },
+        "1_10": {
+            "preLesson": "https://youtu.be/OMxSpRQKrSc",
+            "mainLesson": "https://youtu.be/08a-UdarnXM",
+            "wordPractice": ""
+        },
+        "1_11": {
+            "preLesson": "https://youtu.be/oVnDnr0GB0E",
+            "mainLesson": "https://youtu.be/1v6XU78hPn0",
+            "wordPractice": ""
+        },
+        "1_12": {
+            "preLesson": "https://youtu.be/sz17N3OYTJY",
+            "mainLesson": "https://youtu.be/rshy0gePQYg",
+            "wordPractice": ""
+        },
+        "1_13": {
+            "preLesson": "https://youtu.be/gtGDl4CA7OI",
+            "mainLesson": "https://youtu.be/sAHkgh0jVXk",
+            "wordPractice": ""
+        },
+        "1_14": {
+            "preLesson": "https://youtu.be/G0fpMNwXCYs",
+            "mainLesson": "https://youtu.be/M5XvU1-_SJo",
+            "wordPractice": ""
+        }
+    }
+}
