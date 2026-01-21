@@ -1,8 +1,6 @@
 {
-    "updated": true,
-    "version": 6,
-    "lastUpdated": "2026-01-20",
-    "showVideo": false,
+    "version": 2,
+    "showVideo": true,
     "lessons": {
         "1_1": {
             "preLesson": "",
@@ -10,7 +8,7 @@
             "wordPractice": ""
         },
         "1_2": {
-            "preLesson": "https://youtu.be/vT3LgOY1zjY",
+            "preLesson": "https://youtu.be2/vT3LgOY1zjY",
             "mainLesson": "https://www.youtube.com/watch?v=rs5Y19QGVas",
             "wordPractice": "https://www.youtube.com/watch?v=Arjc7-S0sJw"
         },
