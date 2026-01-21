@@ -1,8 +1,8 @@
 {
     "updated": true,
-    "version": 4,
+    "version": 5,
     "lastUpdated": "2026-01-20",
-    "showVideo": true,
+    "showVideo": false,
     "lessons": {
         "1_1": {
             "preLesson": "",
