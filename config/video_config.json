@@ -1,12 +1,12 @@
 {
     "updated": true,
     "version": 1,
-    "lastUpdated": "2026-01-23",
-    "showVideo": false,
+    "lastUpdated": "2026-01-20",
+    "showVideo": true,
     "lessons": {
         "1_1": {
             "preLesson": "",
-            "mainLesson": "https://youtu.be/YbuxDniYWrg",
+            "mainLesson": "https://youtu.be1/YbuxDniYWrg",
             "wordPractice": ""
         },
         "1_2": {
