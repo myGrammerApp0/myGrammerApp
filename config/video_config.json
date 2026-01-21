@@ -1,6 +1,6 @@
 {
-    "version": 2,
-    "showVideo": true,
+    "version": 4,
+    "showVideo": false,
     "lessons": {
         "1_1": {
             "preLesson": "",
@@ -9,7 +9,7 @@
         },
         "1_2": {
             "preLesson": "https://youtu.be2/vT3LgOY1zjY",
-            "mainLesson": "https://www.youtube.com/watch?v=rs5Y19QGVas",
+            "mainLesson": "https://www.youtube.com1/watch?v=rs5Y19QGVas",
             "wordPractice": "https://www.youtube.com/watch?v=Arjc7-S0sJw"
         },
         "1_3": {
